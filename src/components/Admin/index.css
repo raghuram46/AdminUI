@@ -1,0 +1,29 @@
+/* Write your code here. */
+.bg-container {
+  height: 559px;
+  width: 1003px;
+  padding: 20px 100px 20px 100px;
+}
+
+.input {
+  padding: 8px;
+  font-size: 15px;
+  width: 804px;
+  border: 1px solid rgb(219, 205, 205);
+  border-radius: 3px;
+  margin-bottom: 20px;
+  outline: none;
+  margin-bottom: 8px;
+}
+
+.delete-selected-button {
+  padding: 7px;
+  color: white;
+  font-weight: 400;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: rgb(243, 141, 141);
+  margin-bottom: 10px;
+}

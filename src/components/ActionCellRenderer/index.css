@@ -1,0 +1,15 @@
+.edit-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  color: black;
+}
+
+.delete-icon-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  color: red;
+}
